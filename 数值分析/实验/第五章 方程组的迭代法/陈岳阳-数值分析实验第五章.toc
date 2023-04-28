@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}线性方程组的迭代法}{1}{}%
+\contentsline {subsection}{\numberline {1.1}雅可比迭代法}{1}{}%
+\contentsline {subsection}{\numberline {1.2}高斯-塞德尔迭代}{2}{}%
+\contentsline {subsection}{\numberline {1.3}迭代法的收敛性}{2}{}%
+\contentsline {subsubsection}{\numberline {1.3.1}迭代公式的矩阵表示}{2}{}%
+\contentsline {subsubsection}{\numberline {1.3.2}迭代公式的收敛性判定}{2}{}%
+\contentsline {section}{\numberline {2}实验代码及解决问题}{3}{}%
+\contentsline {subsection}{\numberline {2.1}收敛性判定及收敛速率的比较}{4}{}%
+\contentsline {section}{\numberline {3}实验体会}{4}{}%

@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}实验目的}{2}{}%
+\contentsline {section}{\numberline {2}实验原理}{2}{}%
+\contentsline {section}{\numberline {3}设计过程}{2}{}%
+\contentsline {section}{\numberline {4}实验结果}{4}{}%
+\contentsline {section}{\numberline {5}实验总结}{4}{}%
